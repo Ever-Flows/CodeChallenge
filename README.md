@@ -12,7 +12,7 @@ Assumption
 No new modules need to be installed
 * **Create codech environment** type in terminal window: conda create -n codech python=3.6
 * **Activate environment** type in terminal window: source activate codech
-* **Check modules** - Compare with modules in modules.txt
+* **Check modules** - Compare with modules in [modules.txt](https://github.com/Ever-Flows/CodeChallenge/blob/master/modules.txt)
 
 # Usage
 * *python codech.py* runs the code and meets all requirements outlined in the requirements pdf files.
