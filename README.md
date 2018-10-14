@@ -25,9 +25,12 @@ No new modules need to be installed
 * On Apple Mac
 
 # Sample output for python codech.py
-Directory  teradata_logs  Created 
+Directory  teradata_logs  Created
+
 Directory  new_log_dir1  Created 
+
 Directory  new_log_dir2  Created 
+
 The word teradata occurs 48 times in the folder new_log_dir1
 
 # Sample output for python codech.py debug
